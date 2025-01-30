@@ -1,7 +1,8 @@
-streamlit
-matplotlib
-pandas
-numpy
-seaborn
-sqlalchemy
-psycopg2
+streamlit>=1.30.0
+matplotlib>=3.8.0
+pandas>=2.1.0
+numpy>=1.26.0
+seaborn>=0.12.2
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9
+
